@@ -1,5 +1,5 @@
 <vertical display_name="Practice Problem 2">
   <problem url_name="76ae9a13971a43a291f584b2de5b6012"/>
-  <lti_consumer url_name="c75c908ae3e34ef1899ec37062670c0c" xblock-family="xblock.v1" custom_parameters="[]" inline_height="1100" display_name="DET2TL Program" lti_id="matlab" launch_url="https://learningtool.mathworks.com/launch"/>
-  <discussion url_name="60be4b53fe9d49188aa790287279dffa" xblock-family="xblock.v1" discussion_target="Practice Problem 2" discussion_category="Week 7"/>
+  <lti_consumer url_name="c75c908ae3e34ef1899ec37062670c0c" xblock-family="xblock.v1" display_name="DET2TL Program" custom_parameters="[]" inline_height="1100" launch_url="https://learningtool.mathworks.com/launch" lti_id="matlab"/>
+  <discussion url_name="60be4b53fe9d49188aa790287279dffa" xblock-family="xblock.v1" discussion_category="Week 7" discussion_target="Practice Problem 2"/>
 </vertical>

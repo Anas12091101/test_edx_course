@@ -2,5 +2,5 @@
   <html url_name="44be34def533488483aa946a9eb1c56f"/>
   <video url_name="61e17d5354634c35acad0afc8815d6a2"/>
   <video url_name="c02db29aa1524cb086f5a3af169296e8"/>
-  <lti_consumer url_name="1bb5286cfb6544f698f7a0a522c15085" xblock-family="xblock.v1" lti_id="matlab" launch_url="https://learningtool.mathworks.com/launch"/>
+  <lti_consumer url_name="1bb5286cfb6544f698f7a0a522c15085" xblock-family="xblock.v1" launch_url="https://learningtool.mathworks.com/launch" lti_id="matlab"/>
 </vertical>

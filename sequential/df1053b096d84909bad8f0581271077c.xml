@@ -1,4 +1,4 @@
-<sequential default_time_limit_minutes="1440" display_name="Midterm Exam" due="&quot;2018-11-20T00:00:00+00:00&quot;" exam_review_rules="" format="Final Exam" graded="true" hide_after_due="true" is_practice_exam="false" is_proctored_enabled="false" is_time_limited="true" start="&quot;2018-11-12T15:00:00+00:00&quot;">
+<sequential default_time_limit_minutes="1440" display_name="Midterm Exam" due="2018-11-20T00:00:00Z" exam_review_rules="" format="Final Exam" graded="true" hide_after_due="true" is_practice_exam="false" is_proctored_enabled="false" is_time_limited="true" start="2018-11-12T15:00:00Z">
   <vertical url_name="3514e2964bc14e449dcd96294637f64c"/>
   <vertical url_name="06a81b158d6f412caf0dabe4a3fc1314"/>
   <vertical url_name="1f6d07c364de4e40b47fae94e8cb27ef"/>

@@ -1,5 +1,5 @@
 <vertical display_name="Selected Reading" group_access="{}">
   <html url_name="5305e83f2d284fc59ae2bac291d78412"/>
   <html url_name="d8e2554987c74e6c886e10ddc4ee3263"/>
-  <discussion url_name="36331b449e09499298e7653d9bf699e9" xblock-family="xblock.v1" discussion_target="Selected Readings" discussion_category="Week 4"/>
+  <discussion url_name="36331b449e09499298e7653d9bf699e9" xblock-family="xblock.v1" discussion_category="Week 4" discussion_target="Selected Readings"/>
 </vertical>

@@ -7,5 +7,5 @@
   <problem url_name="98db4dfeaba24fdb98bfe2fdb08c0135"/>
   <problem url_name="baf8742b510742d4ab3e7b49b61ce01b"/>
   <problem url_name="ec8acec158914bbfbeaea12986fb3e16"/>
-  <lti_consumer url_name="5437733571ed4083938f94c72bac1cb7" xblock-family="xblock.v1" custom_parameters="[]" inline_height="1100" accept_grades_past_due="false" modal_height="80" lti_id="matlab" launch_url="https://learningtool.mathworks.com/launch"/>
+  <lti_consumer url_name="5437733571ed4083938f94c72bac1cb7" xblock-family="xblock.v1" accept_grades_past_due="false" custom_parameters="[]" inline_height="1100" launch_url="https://learningtool.mathworks.com/launch" lti_id="matlab" modal_height="80"/>
 </vertical>

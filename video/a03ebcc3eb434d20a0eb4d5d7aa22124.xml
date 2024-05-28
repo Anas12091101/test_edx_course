@@ -1,13 +1,13 @@
-<video youtube="1.00:tc_3LrjLNhU" url_name="a03ebcc3eb434d20a0eb4d5d7aa22124" display_name="Recitation: MicroMaster's Practice Problem 2" download_track="true" download_video="true" edx_video_id="b9687266-d660-40d2-8dcf-b1ee345fc8d0" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;b9687266-d660-40d2-8dcf-b1ee345fc8d0-en.srt&quot;}" youtube_id_1_0="tc_3LrjLNhU">
-  <transcript language="en" src="b9687266-d660-40d2-8dcf-b1ee345fc8d0-en.srt"/>
+<video youtube="1.00:tc_3LrjLNhU" url_name="a03ebcc3eb434d20a0eb4d5d7aa22124" sub="" transcripts="{&quot;en&quot;: &quot;b9687266-d660-40d2-8dcf-b1ee345fc8d0-en.srt&quot;}" display_name="Recitation: MicroMaster's Practice Problem 2" download_track="true" download_video="true" edx_video_id="b9687266-d660-40d2-8dcf-b1ee345fc8d0" html5_sources="[]" youtube_id_1_0="tc_3LrjLNhU">
   <video_asset client_video_id="Week4Recitation.mp4" duration="818.67" image="">
-    <encoded_video bitrate="192" file_size="19649652" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300_AUD.mp3"/>
-    <encoded_video bitrate="166" file_size="17029798" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300_MB2.mp4"/>
-    <encoded_video bitrate="189" file_size="19384139" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="tc_3LrjLNhU"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300/MIT2854F2017-V006300.m3u8"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300_AUD.mp3" file_size="19649652" bitrate="192"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300_MB2.mp4" file_size="17029798" bitrate="166"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300_DTH.mp4" file_size="19384139" bitrate="189"/>
+    <encoded_video profile="youtube" url="tc_3LrjLNhU" file_size="0" bitrate="0"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006300/MIT2854F2017-V006300.m3u8" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="b9687266-d660-40d2-8dcf-b1ee345fc8d0-en.srt"/>
 </video>

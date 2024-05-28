@@ -1,13 +1,13 @@
-<video youtube="1.00:4inlVoXe7L0" url_name="5c2a19fef9724e9d8c15b382e5a59d10" display_name="Video 5: Queuing Networks II" download_track="true" download_video="true" edx_video_id="43666396-471e-47a5-aebc-b600c66c3a71" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;43666396-471e-47a5-aebc-b600c66c3a71-en.srt&quot;}" youtube_id_1_0="4inlVoXe7L0">
-  <transcript language="en" src="43666396-471e-47a5-aebc-b600c66c3a71-en.srt"/>
-  <video_asset client_video_id="W04v05.mp4" duration="730.18" image="video-images/2b49dfc581f14e658b5a76f65a787b1d.jpg">
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="4inlVoXe7L0"/>
-    <encoded_video bitrate="192" file_size="17525514" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600_AUD.mp3"/>
-    <encoded_video bitrate="173" file_size="15797947" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600_MB2.mp4"/>
-    <encoded_video bitrate="197" file_size="17991937" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600/MIT2854F2017-V001600.m3u8"/>
+<video youtube="1.00:4inlVoXe7L0" url_name="5c2a19fef9724e9d8c15b382e5a59d10" sub="" transcripts="{&quot;en&quot;: &quot;43666396-471e-47a5-aebc-b600c66c3a71-en.srt&quot;}" display_name="Video 5: Queuing Networks II" download_track="true" download_video="true" edx_video_id="43666396-471e-47a5-aebc-b600c66c3a71" html5_sources="[]" youtube_id_1_0="4inlVoXe7L0">
+  <video_asset client_video_id="W04v05.mp4" duration="730.18" image="">
+    <encoded_video profile="youtube" url="4inlVoXe7L0" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600_AUD.mp3" file_size="17525514" bitrate="192"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600_MB2.mp4" file_size="15797947" bitrate="173"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600_DTH.mp4" file_size="17991937" bitrate="197"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V001600/MIT2854F2017-V001600.m3u8" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="43666396-471e-47a5-aebc-b600c66c3a71-en.srt"/>
 </video>

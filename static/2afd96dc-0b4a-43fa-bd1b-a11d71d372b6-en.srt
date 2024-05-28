@@ -1,0 +1,1240 @@
+0
+00:00:00,000 --> 00:00:02,210
+
+
+1
+00:00:02,210 --> 00:00:05,160
+While probability may seem to be about imprecise uncertain
+
+2
+00:00:05,160 --> 00:00:08,600
+phenomena, probability calculations are precise
+
+3
+00:00:08,600 --> 00:00:10,940
+and they can model important features of the real world
+
+4
+00:00:10,940 --> 00:00:12,477
+very well.
+
+5
+00:00:12,477 --> 00:00:14,560
+They apply equally well to the frequency and state
+
+6
+00:00:14,560 --> 00:00:17,030
+of belief interpretations.
+
+7
+00:00:17,030 --> 00:00:19,610
+This week will be a very short course on the basics
+
+8
+00:00:19,610 --> 00:00:20,930
+of probability theory.
+
+9
+00:00:20,930 --> 00:00:23,000
+We will focus on those parts of the theory that
+
+10
+00:00:23,000 --> 00:00:25,700
+will be useful in understanding random events and factories,
+
+11
+00:00:25,700 --> 00:00:27,270
+and their consequences.
+
+12
+00:00:27,270 --> 00:00:29,030
+We'll only be scratching the surface
+
+13
+00:00:29,030 --> 00:00:30,734
+of a vast body of knowledge.
+
+14
+00:00:30,734 --> 00:00:32,150
+The axioms of probability are very
+
+15
+00:00:32,150 --> 00:00:34,940
+important because all quantitative probability
+
+16
+00:00:34,940 --> 00:00:36,030
+methods are based on them.
+
+17
+00:00:36,030 --> 00:00:40,390
+
+
+18
+00:00:40,390 --> 00:00:42,520
+Suppose we want to describe an experiment which
+
+19
+00:00:42,520 --> 00:00:44,630
+has more than one outcome.
+
+20
+00:00:44,630 --> 00:00:46,750
+We'll define the universe, U, to be
+
+21
+00:00:46,750 --> 00:00:49,570
+the set of all possible outcomes of the experiment.
+
+22
+00:00:49,570 --> 00:00:52,330
+The elements of U are called samples.
+
+23
+00:00:52,330 --> 00:00:57,920
+E1, E2, and so forth, are subsets of U.
+
+24
+00:00:57,920 --> 00:01:00,917
+A special subset is the null or empty set,
+
+25
+00:01:00,917 --> 00:01:02,125
+the set that has no elements.
+
+26
+00:01:02,125 --> 00:01:04,840
+
+
+27
+00:01:04,840 --> 00:01:08,860
+P is a function of sets that has the following property.
+
+28
+00:01:08,860 --> 00:01:15,730
+First of all, the probability of any subset is between 0 and E1.
+
+29
+00:01:15,730 --> 00:01:18,430
+The probability of the universe is E1.
+
+30
+00:01:18,430 --> 00:01:21,290
+The probability of the empty set is 0.
+
+31
+00:01:21,290 --> 00:01:25,660
+And, if E1 and E2 are disjoint, that
+
+32
+00:01:25,660 --> 00:01:30,190
+is the intersection is empty, they have no samples in common.
+
+33
+00:01:30,190 --> 00:01:34,150
+Then P of the union of EI and EJ is
+
+34
+00:01:34,150 --> 00:01:36,730
+equal to P of EI plus P of EJ.
+
+35
+00:01:36,730 --> 00:01:40,090
+
+
+36
+00:01:40,090 --> 00:01:41,710
+Technically, P is a measure.
+
+37
+00:01:41,710 --> 00:01:44,260
+You can think of a measure as a generalization of area
+
+38
+00:01:44,260 --> 00:01:45,580
+or volume.
+
+39
+00:01:45,580 --> 00:01:47,800
+If you think of the universe as a big plot of land,
+
+40
+00:01:47,800 --> 00:01:49,660
+then some of the subsets are small plots
+
+41
+00:01:49,660 --> 00:01:51,550
+of land inside the universe.
+
+42
+00:01:51,550 --> 00:01:53,710
+The last two axioms are very natural.
+
+43
+00:01:53,710 --> 00:01:56,740
+The area of A set of no land is zero,
+
+44
+00:01:56,740 --> 00:01:58,270
+and the area of A set of land which
+
+45
+00:01:58,270 --> 00:02:00,490
+consists of two non-overlapping plots
+
+46
+00:02:00,490 --> 00:02:03,740
+is the sum of their areas.
+
+47
+00:02:03,740 --> 00:02:05,110
+All right, some notation.
+
+48
+00:02:05,110 --> 00:02:07,660
+Omega, lowercase omega, is often used
+
+49
+00:02:07,660 --> 00:02:10,509
+as the symbol for a generic sample,
+
+50
+00:02:10,509 --> 00:02:14,140
+subsets of U. The E's are called events.
+
+51
+00:02:14,140 --> 00:02:18,220
+And P of E is the probability of event E.
+
+52
+00:02:18,220 --> 00:02:19,960
+Technically, P is a measure.
+
+53
+00:02:19,960 --> 00:02:22,750
+You can think of a measure as a generalization of an area
+
+54
+00:02:22,750 --> 00:02:23,470
+or volume.
+
+55
+00:02:23,470 --> 00:02:26,380
+If you think the universe is one big plot of land,
+
+56
+00:02:26,380 --> 00:02:28,180
+then some of the subsets are smaller plots
+
+57
+00:02:28,180 --> 00:02:30,220
+of land inside the universe.
+
+58
+00:02:30,220 --> 00:02:32,650
+The last two axioms are very natural.
+
+59
+00:02:32,650 --> 00:02:34,870
+The area of a set of no land is zero,
+
+60
+00:02:34,870 --> 00:02:37,765
+and the area of a set of land which consists of two
+
+61
+00:02:37,765 --> 00:02:42,930
+non-overlapping plots is the sum of their area's.
+
+62
+00:02:42,930 --> 00:02:44,820
+So, let's look at some examples.
+
+63
+00:02:44,820 --> 00:02:46,620
+Throw a single die.
+
+64
+00:02:46,620 --> 00:02:50,070
+The possible outcomes are 1, 2, 3, 4, 5, and 6.
+
+65
+00:02:50,070 --> 00:02:53,890
+Omega can be any one of those values.
+
+66
+00:02:53,890 --> 00:02:56,460
+Here's another example, more closely related
+
+67
+00:02:56,460 --> 00:02:58,020
+to manufacturing.
+
+68
+00:02:58,020 --> 00:03:02,010
+Let's say that N of T is the number of parts in inventory
+
+69
+00:03:02,010 --> 00:03:07,710
+at time T. Then omega is the set of numbers N of 1, N of 2,
+
+70
+00:03:07,710 --> 00:03:09,210
+and so forth.
+
+71
+00:03:09,210 --> 00:03:12,130
+That's called a sample path.
+
+72
+00:03:12,130 --> 00:03:14,400
+An event can be defined by a statement.
+
+73
+00:03:14,400 --> 00:03:16,860
+For example, E is the event that there
+
+74
+00:03:16,860 --> 00:03:21,600
+are six parts in the buffer at time t equals 12.
+
+75
+00:03:21,600 --> 00:03:23,910
+This is the formal notation for that.
+
+76
+00:03:23,910 --> 00:03:28,260
+So E is the set of all omega, such that N of 12 equals 6.
+
+77
+00:03:28,260 --> 00:03:31,480
+And that's written in the last line,
+
+78
+00:03:31,480 --> 00:03:34,640
+which is actually spoken the same way as what I just read.
+
+79
+00:03:34,640 --> 00:03:37,980
+
+
+80
+00:03:37,980 --> 00:03:43,590
+Here's an illustration of a discrete sample space.
+
+81
+00:03:43,590 --> 00:03:46,350
+The circles represent samples.
+
+82
+00:03:46,350 --> 00:03:49,410
+The color of the circles indicates the probability.
+
+83
+00:03:49,410 --> 00:03:53,310
+Now, imagine that we have a dart thrower who's throwing darts
+
+84
+00:03:53,310 --> 00:03:58,440
+at this board, and the darts are going to land in these circles.
+
+85
+00:03:58,440 --> 00:04:00,540
+In fact, let's make it interesting by blindfolding
+
+86
+00:04:00,540 --> 00:04:02,220
+the dart thrower.
+
+87
+00:04:02,220 --> 00:04:04,800
+Now, the graphical notation, here,
+
+88
+00:04:04,800 --> 00:04:08,250
+is that the darker circles represent higher probabilities
+
+89
+00:04:08,250 --> 00:04:11,550
+and the lighter circles represent lower probabilities.
+
+90
+00:04:11,550 --> 00:04:14,640
+So when the DART thrower throws his darts,
+
+91
+00:04:14,640 --> 00:04:17,910
+we get more of them tending to land in the darker circles
+
+92
+00:04:17,910 --> 00:04:20,790
+and fewer of them landing in the lighter circles.
+
+93
+00:04:20,790 --> 00:04:25,080
+But it's not uniform, and there's always a probability
+
+94
+00:04:25,080 --> 00:04:27,450
+that we could get more in some of the lighter circles
+
+95
+00:04:27,450 --> 00:04:30,930
+than in some of the darker ones.
+
+96
+00:04:30,930 --> 00:04:33,210
+This is a thought experiment only.
+
+97
+00:04:33,210 --> 00:04:35,010
+Do not actually try this out.
+
+98
+00:04:35,010 --> 00:04:36,250
+Do not do this at home.
+
+99
+00:04:36,250 --> 00:04:42,320
+
+
+100
+00:04:42,320 --> 00:04:46,160
+Venn diagrams are useful to illustrate set theory,
+
+101
+00:04:46,160 --> 00:04:47,870
+and they work--
+
+102
+00:04:47,870 --> 00:04:50,326
+and they're useful for here, as well.
+
+103
+00:04:50,326 --> 00:04:53,960
+A is a subset of U, so that's an event.
+
+104
+00:04:53,960 --> 00:04:57,560
+A bar is the notation for the set of all elements
+
+105
+00:04:57,560 --> 00:04:59,380
+that are not in A.
+
+106
+00:04:59,380 --> 00:05:02,420
+Then, according to the last axiom of probability,
+
+107
+00:05:02,420 --> 00:05:07,310
+P of A bar is equal to 1 minus P of A.
+
+108
+00:05:07,310 --> 00:05:09,350
+The last axiom tells us the probability
+
+109
+00:05:09,350 --> 00:05:13,650
+of the union of two sets, whose intersection is an empty set.
+
+110
+00:05:13,650 --> 00:05:17,420
+What about two sets that do have some elements in common?
+
+111
+00:05:17,420 --> 00:05:20,300
+That probability is given by the formulas shown.
+
+112
+00:05:20,300 --> 00:05:23,420
+We have to subtract off the probability of the intersection
+
+113
+00:05:23,420 --> 00:05:27,530
+to avoid counting that intersection twice.
+
+114
+00:05:27,530 --> 00:05:30,590
+Independent events are ones in which the occurrence of one
+
+115
+00:05:30,590 --> 00:05:33,360
+has no effect on whether the other occurs.
+
+116
+00:05:33,360 --> 00:05:35,720
+Therefore, the probability of both occurring
+
+117
+00:05:35,720 --> 00:05:38,480
+is the product of each one occurring.
+
+118
+00:05:38,480 --> 00:05:40,089
+Here's an example.
+
+119
+00:05:40,089 --> 00:05:42,005
+In this example, imagine that the dart thrower
+
+120
+00:05:42,005 --> 00:05:44,990
+is throwing darts at the irregular grid, which is shown
+
+121
+00:05:44,990 --> 00:05:47,540
+at the bottom of the slide.
+
+122
+00:05:47,540 --> 00:05:50,840
+Now, the grid is divided in such a way
+
+123
+00:05:50,840 --> 00:05:57,440
+that the upper left figure shows the probabilities of landing
+
+124
+00:05:57,440 --> 00:05:59,960
+in vertical strips.
+
+125
+00:05:59,960 --> 00:06:03,650
+And the upper right shows the probability of the dart landing
+
+126
+00:06:03,650 --> 00:06:05,690
+in horizontal strips.
+
+127
+00:06:05,690 --> 00:06:08,280
+But those two are independent of one another.
+
+128
+00:06:08,280 --> 00:06:11,030
+So, when we threw the dart at the grid,
+
+129
+00:06:11,030 --> 00:06:14,780
+the probability of it flowing in a specific place,
+
+130
+00:06:14,780 --> 00:06:17,600
+whether the dark lands in a given
+
+131
+00:06:17,600 --> 00:06:21,000
+horizontal strip and a given vertical strip is independent.
+
+132
+00:06:21,000 --> 00:06:24,620
+The probability that it lands in the box shown
+
+133
+00:06:24,620 --> 00:06:26,390
+is the product of the probability
+
+134
+00:06:26,390 --> 00:06:30,710
+that it lands in that horizontal strip, and the probability
+
+135
+00:06:30,710 --> 00:06:32,570
+that it lands in the vertical strip.
+
+136
+00:06:32,570 --> 00:06:35,350
+The probability of the horizontal strip is 0.179,
+
+137
+00:06:35,350 --> 00:06:38,840
+the probability of the vertical strip is 0.05,
+
+138
+00:06:38,840 --> 00:06:45,080
+so the probability of landing in that specific box is 0.0089.
+
+139
+00:06:45,080 --> 00:06:48,530
+Conditional probability is a very important concept.
+
+140
+00:06:48,530 --> 00:06:51,270
+If A and B are not independent events,
+
+141
+00:06:51,270 --> 00:06:53,780
+then knowing that B has occurred affects the probability
+
+142
+00:06:53,780 --> 00:06:55,490
+that A has occurred.
+
+143
+00:06:55,490 --> 00:06:58,220
+What is the probability that a dart lands in A, if I know
+
+144
+00:06:58,220 --> 00:07:00,380
+that the dart has landed in B?
+
+145
+00:07:00,380 --> 00:07:03,860
+If B is a subset of A, the probability is 1.
+
+146
+00:07:03,860 --> 00:07:06,290
+If there's a large overlap between A and B,
+
+147
+00:07:06,290 --> 00:07:08,670
+then that probability is high.
+
+148
+00:07:08,670 --> 00:07:12,510
+On the other hand, if A and B are disjoint, in other words,
+
+149
+00:07:12,510 --> 00:07:17,540
+they have no elements in common, then the probability is zero.
+
+150
+00:07:17,540 --> 00:07:19,840
+Conditional probability is the probability
+
+151
+00:07:19,840 --> 00:07:24,230
+that A has occurred, given that we know that B has occurred.
+
+152
+00:07:24,230 --> 00:07:27,020
+In order for the dart to land in A, given
+
+153
+00:07:27,020 --> 00:07:29,060
+that it has landed in B, it must land
+
+154
+00:07:29,060 --> 00:07:32,150
+in the intersection of A and B. Therefore,
+
+155
+00:07:32,150 --> 00:07:33,980
+the probability that it has landed in A,
+
+156
+00:07:33,980 --> 00:07:36,320
+given that it has landed in B, is the probability
+
+157
+00:07:36,320 --> 00:07:40,324
+of the intersection divided by the probability of B.
+
+158
+00:07:40,324 --> 00:07:41,240
+So, here's an example.
+
+159
+00:07:41,240 --> 00:07:43,130
+Let's throw a die.
+
+160
+00:07:43,130 --> 00:07:46,440
+Let's call A the event of getting an odd number, 1, 3,
+
+161
+00:07:46,440 --> 00:07:47,810
+or 5.
+
+162
+00:07:47,810 --> 00:07:51,120
+And B is the event of getting a number less than or equal to 3,
+
+163
+00:07:51,120 --> 00:07:53,750
+which is 1, 2, or 3.
+
+164
+00:07:53,750 --> 00:07:56,600
+Then, the probability of A and the probability of B
+
+165
+00:07:56,600 --> 00:07:57,350
+are both 1/2.
+
+166
+00:07:57,350 --> 00:08:00,850
+
+
+167
+00:08:00,850 --> 00:08:03,880
+The probability of A intersection B,
+
+168
+00:08:03,880 --> 00:08:07,000
+is just the probability of getting a 1 or 3,
+
+169
+00:08:07,000 --> 00:08:07,950
+and that's one third.
+
+170
+00:08:07,950 --> 00:08:09,780
+That's two possibilities out of six.
+
+171
+00:08:09,780 --> 00:08:12,930
+
+
+172
+00:08:12,930 --> 00:08:17,010
+So, the probability of A given B is the probability
+
+173
+00:08:17,010 --> 00:08:19,560
+of the intersection divided by the probability of B,
+
+174
+00:08:19,560 --> 00:08:21,800
+which is 2/3.
+
+175
+00:08:21,800 --> 00:08:23,520
+And, one way of thinking about that,
+
+176
+00:08:23,520 --> 00:08:27,000
+is that the intersection is 1 or 3,
+
+177
+00:08:27,000 --> 00:08:32,700
+and the probability of getting A is getting 1 or 3, but not 5.
+
+178
+00:08:32,700 --> 00:08:34,553
+So, that's 2/3.
+
+179
+00:08:34,553 --> 00:08:36,360
+The law of total probability deals
+
+180
+00:08:36,360 --> 00:08:37,530
+with the following question.
+
+181
+00:08:37,530 --> 00:08:40,750
+Suppose event A can occur in several different ways.
+
+182
+00:08:40,750 --> 00:08:42,840
+Specifically, A might occur if E!
+
+183
+00:08:42,840 --> 00:08:45,930
+or E2 or E3, and so forth, occurs.
+
+184
+00:08:45,930 --> 00:08:49,650
+We know the probability of E1, E2, and E3 occurring.
+
+185
+00:08:49,650 --> 00:08:52,290
+And we know the conditional probability of A occurring,
+
+186
+00:08:52,290 --> 00:08:57,400
+given that E1 E2 and so on and so forth, has occurred.
+
+187
+00:08:57,400 --> 00:09:00,820
+So, what is the probability of A occurring?
+
+188
+00:09:00,820 --> 00:09:03,510
+So, let's look at the slide.
+
+189
+00:09:03,510 --> 00:09:06,810
+So we going to build this up simply, from simple cases
+
+190
+00:09:06,810 --> 00:09:09,480
+to something more complicated.
+
+191
+00:09:09,480 --> 00:09:12,960
+Let B be this set, which is the union of C and D.
+
+192
+00:09:12,960 --> 00:09:14,310
+And C and D are disjoint.
+
+193
+00:09:14,310 --> 00:09:16,920
+They have no elements in common.
+
+194
+00:09:16,920 --> 00:09:20,730
+In that case, the probability of A given C
+
+195
+00:09:20,730 --> 00:09:24,210
+is probability of A intersection C, divided by probability of C,
+
+196
+00:09:24,210 --> 00:09:27,270
+is just the definition of condition probability.
+
+197
+00:09:27,270 --> 00:09:30,360
+And probability of A given D is the probability--
+
+198
+00:09:30,360 --> 00:09:32,840
+is the probability of the intersection of A and D,
+
+199
+00:09:32,840 --> 00:09:39,500
+divided by probability of D.
+
+200
+00:09:39,500 --> 00:09:42,800
+In addition, the probability of C given B
+
+201
+00:09:42,800 --> 00:09:46,490
+is equal to the probability of C intersection B, divided
+
+202
+00:09:46,490 --> 00:09:49,190
+by the probability of B, which is just probability
+
+203
+00:09:49,190 --> 00:09:53,270
+of C over probability of B. Because C intersection B is
+
+204
+00:09:53,270 --> 00:09:58,130
+just the same as C. Similarly, the probability of D
+
+205
+00:09:58,130 --> 00:10:05,330
+given B is just probability of D divided by probability of B.
+
+206
+00:10:05,330 --> 00:10:09,710
+Now, we can write the intersection of A and B,
+
+207
+00:10:09,710 --> 00:10:13,910
+as the intersection of A with C union D, which
+
+208
+00:10:13,910 --> 00:10:20,510
+is A intersection C, union A intersection D. A intersection
+
+209
+00:10:20,510 --> 00:10:22,850
+C and A intersection D are disjoint.
+
+210
+00:10:22,850 --> 00:10:25,790
+
+
+211
+00:10:25,790 --> 00:10:28,840
+So the probability of A intersection B
+
+212
+00:10:28,840 --> 00:10:33,460
+is just the probability of A intersection with C union
+
+213
+00:10:33,460 --> 00:10:37,510
+D, which is just the probability of A intersection
+
+214
+00:10:37,510 --> 00:10:40,660
+C plus a intersection D, because of that disjointness.
+
+215
+00:10:40,660 --> 00:10:43,360
+
+
+216
+00:10:43,360 --> 00:10:46,690
+From the definition of conditional probability,
+
+217
+00:10:46,690 --> 00:10:50,080
+we can write this equation as P of A given B times
+
+218
+00:10:50,080 --> 00:10:53,770
+probability of B, equals P of A given C times the probability
+
+219
+00:10:53,770 --> 00:10:56,470
+of C, plus the probability of A given
+
+220
+00:10:56,470 --> 00:11:02,320
+D times the probability of D. If we divide through,
+
+221
+00:11:02,320 --> 00:11:07,900
+by probability of B, then we get the equation shown.
+
+222
+00:11:07,900 --> 00:11:13,300
+And that turns into probability of A given B equals probability
+
+223
+00:11:13,300 --> 00:11:16,960
+of A given C, times the probability of C given B,
+
+224
+00:11:16,960 --> 00:11:18,730
+plus the probability of A given D,
+
+225
+00:11:18,730 --> 00:11:20,811
+times the probability of D given B.
+
+226
+00:11:20,811 --> 00:11:21,310
+OK.
+
+227
+00:11:21,310 --> 00:11:22,180
+That looks nice.
+
+228
+00:11:22,180 --> 00:11:25,370
+Let's see where we can go from there.
+
+229
+00:11:25,370 --> 00:11:27,670
+So, a very important case is when
+
+230
+00:11:27,670 --> 00:11:32,470
+C union D which is equal to B, is just the whole universe.
+
+231
+00:11:32,470 --> 00:11:37,030
+In other words, the dart could land in C
+
+232
+00:11:37,030 --> 00:11:39,430
+or it could land in D. No other place.
+
+233
+00:11:39,430 --> 00:11:43,240
+And so, we're asking whether the dart has landed in A.
+
+234
+00:11:43,240 --> 00:11:51,220
+So A intersection B is equal to A so probability of A
+
+235
+00:11:51,220 --> 00:11:54,610
+is equal to probability of A intersection C plus probability
+
+236
+00:11:54,610 --> 00:11:59,620
+of A intersection D, which finally leads to this equation.
+
+237
+00:11:59,620 --> 00:12:01,500
+Probability of A is equal to probability
+
+238
+00:12:01,500 --> 00:12:04,600
+of A given C times the probability of C,
+
+239
+00:12:04,600 --> 00:12:06,460
+plus the probability of A given D,
+
+240
+00:12:06,460 --> 00:12:09,790
+times the probability of D. OK.
+
+241
+00:12:09,790 --> 00:12:13,030
+Let's generalize that and then see what it means.
+
+242
+00:12:13,030 --> 00:12:16,670
+The generalization is when we have lots of events.
+
+243
+00:12:16,670 --> 00:12:19,420
+So all of these E events, together
+
+244
+00:12:19,420 --> 00:12:22,330
+cover the whole set, the whole universe,
+
+245
+00:12:22,330 --> 00:12:24,360
+and they have no overlap.
+
+246
+00:12:24,360 --> 00:12:29,800
+And the A event is shown by the circle.
+
+247
+00:12:29,800 --> 00:12:33,940
+More generally, A and E1 through EK are events.
+
+248
+00:12:33,940 --> 00:12:38,590
+And EI intersection EJ equals the empty set for all I
+
+249
+00:12:38,590 --> 00:12:42,910
+not equal to J, and the union of all the E's are
+
+250
+00:12:42,910 --> 00:12:45,790
+the universal set.
+
+251
+00:12:45,790 --> 00:12:47,740
+And we typically say that, as the set
+
+252
+00:12:47,740 --> 00:12:50,950
+of the EJ's is mutually exclusive
+
+253
+00:12:50,950 --> 00:12:53,440
+and collectively exhaustive.
+
+254
+00:12:53,440 --> 00:12:58,270
+Then, the sum of all the probabilities of EJ is equal
+
+255
+00:12:58,270 --> 00:13:02,800
+to 1, but more importantly, probability of A is the sum
+
+256
+00:13:02,800 --> 00:13:07,340
+of probability of A given EJ times the probability of EJ,
+
+257
+00:13:07,340 --> 00:13:09,880
+over all the J's.
+
+258
+00:13:09,880 --> 00:13:15,040
+This can be illustrated by a graph, in this figure.
+
+259
+00:13:15,040 --> 00:13:18,760
+If I know that EJ has occurred, then there's
+
+260
+00:13:18,760 --> 00:13:21,040
+a probability that A has occurred,
+
+261
+00:13:21,040 --> 00:13:25,012
+which is given by P of A given E1, and so forth.
+
+262
+00:13:25,012 --> 00:13:26,470
+This kind of graph is going to come
+
+263
+00:13:26,470 --> 00:13:28,150
+up later when we talked about--
+
+264
+00:13:28,150 --> 00:13:30,580
+when we talk about dynamic processes.
+
+265
+00:13:30,580 --> 00:13:33,620
+
+
+266
+00:13:33,620 --> 00:13:34,760
+Here's an example.
+
+267
+00:13:34,760 --> 00:13:38,050
+It's kind of silly, but I think it makes the point.
+
+268
+00:13:38,050 --> 00:13:42,580
+Let's set A the event that I will have a cold tomorrow.
+
+269
+00:13:42,580 --> 00:13:46,420
+E1 is the set that it says that it's raining today,
+
+270
+00:13:46,420 --> 00:13:48,520
+E2 is the event that it's snowing today,
+
+271
+00:13:48,520 --> 00:13:50,260
+and E3 is that it's sunny today.
+
+272
+00:13:50,260 --> 00:13:53,590
+
+
+273
+00:13:53,590 --> 00:13:55,090
+So, we're going to assume that those
+
+274
+00:13:55,090 --> 00:13:58,390
+are all the possibilities, and it can only
+
+275
+00:13:58,390 --> 00:14:01,840
+either rain or snow or be sunny, and not two of them
+
+276
+00:14:01,840 --> 00:14:04,160
+at the same time.
+
+277
+00:14:04,160 --> 00:14:08,680
+So, the event A intersection E1 is the event
+
+278
+00:14:08,680 --> 00:14:11,320
+that I will have a cold tomorrow and it's raining today.
+
+279
+00:14:11,320 --> 00:14:14,050
+
+
+280
+00:14:14,050 --> 00:14:17,380
+P of A, given E1, is the probability
+
+281
+00:14:17,380 --> 00:14:22,930
+I will have a cold tomorrow given that it's raining today,
+
+282
+00:14:22,930 --> 00:14:25,310
+and so forth.
+
+283
+00:14:25,310 --> 00:14:29,860
+So, the event that I will have a cold tomorrow
+
+284
+00:14:29,860 --> 00:14:33,130
+is the same as either the event that I
+
+285
+00:14:33,130 --> 00:14:35,950
+will have a cold tomorrow and it's raining today,
+
+286
+00:14:35,950 --> 00:14:39,610
+or I will have a cold tomorrow and it's snowing today,
+
+287
+00:14:39,610 --> 00:14:42,430
+or I will have a cold tomorrow and it's sunny today.
+
+288
+00:14:42,430 --> 00:14:45,550
+
+
+289
+00:14:45,550 --> 00:14:50,290
+So, because of all the assumptions that we made.
+
+290
+00:14:50,290 --> 00:14:52,980
+So, the probability that I will have a cold tomorrow
+
+291
+00:14:52,980 --> 00:14:55,480
+is equal to the probability that I will have a cold tomorrow
+
+292
+00:14:55,480 --> 00:14:58,240
+and it's raining today, plus the probability that I
+
+293
+00:14:58,240 --> 00:15:00,820
+will have a cold tomorrow and that snow today,
+
+294
+00:15:00,820 --> 00:15:03,100
+plus the probability that I will have a cold tomorrow
+
+295
+00:15:03,100 --> 00:15:04,030
+and it's sunny today.
+
+296
+00:15:04,030 --> 00:15:06,710
+
+
+297
+00:15:06,710 --> 00:15:10,400
+So, the probability that I will have a cold tomorrow
+
+298
+00:15:10,400 --> 00:15:12,890
+is the probability that I will have a cold tomorrow, given
+
+299
+00:15:12,890 --> 00:15:15,830
+that it's raining today, times the probability that it's
+
+300
+00:15:15,830 --> 00:15:17,900
+raining today.
+
+301
+00:15:17,900 --> 00:15:20,990
+Plus, the probability I will have cold tomorrow,
+
+302
+00:15:20,990 --> 00:15:23,690
+given that it's snowing today, times the probability that it's
+
+303
+00:15:23,690 --> 00:15:24,440
+snowing today.
+
+304
+00:15:24,440 --> 00:15:26,960
+
+
+305
+00:15:26,960 --> 00:15:29,750
+Plus, the probability that I will have a cold tomorrow,
+
+306
+00:15:29,750 --> 00:15:32,510
+given that it's sunny today, times the probability that it's
+
+307
+00:15:32,510 --> 00:15:36,839
+sunny today, which we can just write this way.
+
+308
+00:15:36,839 --> 00:15:38,630
+And, so, that's the illustration of the law
+
+309
+00:15:38,630 --> 00:15:41,140
+of total probability.
+

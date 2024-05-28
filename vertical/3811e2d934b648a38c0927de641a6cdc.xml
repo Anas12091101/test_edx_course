@@ -3,6 +3,6 @@
   <problem url_name="dc226e4e728d4fc78cbdd6c520b62ced"/>
   <problem url_name="509aca5680e44f5095f11c5ad3940b64"/>
   <problem url_name="1c6bb4d4030342178f634bff8461d190"/>
-  <lti_consumer url_name="7ad18fe8efd141af86a5332bb94d92d8" xblock-family="xblock.v1" custom_parameters="[]" inline_height="1100" lti_id="matlab" launch_url="https://learningtool.mathworks.com/launch"/>
-  <discussion url_name="200f9ff689f44afaba19c8f76563c424" xblock-family="xblock.v1" discussion_target="MicroMaster's Practice Problem 2" discussion_category="Week 7"/>
+  <lti_consumer url_name="7ad18fe8efd141af86a5332bb94d92d8" xblock-family="xblock.v1" custom_parameters="[]" inline_height="1100" launch_url="https://learningtool.mathworks.com/launch" lti_id="matlab"/>
+  <discussion url_name="200f9ff689f44afaba19c8f76563c424" xblock-family="xblock.v1" discussion_category="Week 7" discussion_target="MicroMaster's Practice Problem 2"/>
 </vertical>

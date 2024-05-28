@@ -1,13 +1,13 @@
-<video youtube="1.00:71__U2ghEdo" url_name="ddf5d68a060c420394d83da791da9f5c" display_name="Video 7: More Continuous and Discrete Random Variables" download_track="true" download_video="true" edx_video_id="be29fadb-cb24-423f-b335-c4cb299ebc66" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;be29fadb-cb24-423f-b335-c4cb299ebc66-en.srt&quot;}" youtube_id_1_0="71__U2ghEdo">
-  <transcript language="en" src="be29fadb-cb24-423f-b335-c4cb299ebc66-en.srt"/>
+<video youtube="1.00:71__U2ghEdo" url_name="ddf5d68a060c420394d83da791da9f5c" sub="" transcripts="{&quot;en&quot;: &quot;be29fadb-cb24-423f-b335-c4cb299ebc66-en.srt&quot;}" display_name="Video 7: More Continuous and Discrete Random Variables" download_track="true" download_video="true" edx_video_id="be29fadb-cb24-423f-b335-c4cb299ebc66" html5_sources="[]" youtube_id_1_0="71__U2ghEdo">
   <video_asset client_video_id="W02v07.mp4" duration="413.78" image="">
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="71__U2ghEdo"/>
-    <encoded_video bitrate="192" file_size="9932106" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800_AUD.mp3"/>
-    <encoded_video bitrate="169" file_size="8747386" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800_MB2.mp4"/>
-    <encoded_video bitrate="194" file_size="10054447" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800/MIT2854F2017-V002800.m3u8"/>
+    <encoded_video profile="youtube" url="71__U2ghEdo" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800_AUD.mp3" file_size="9932106" bitrate="192"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800_MB2.mp4" file_size="8747386" bitrate="169"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800_DTH.mp4" file_size="10054447" bitrate="194"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V002800/MIT2854F2017-V002800.m3u8" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="be29fadb-cb24-423f-b335-c4cb299ebc66-en.srt"/>
 </video>

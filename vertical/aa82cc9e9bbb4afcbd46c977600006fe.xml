@@ -1,4 +1,4 @@
 <vertical display_name="Video 1: Intro to Toyota Production System">
   <video url_name="3a80af9ed2a046628cf1695089e51387"/>
-  <discussion url_name="850e1ed6dec64fa4916c0750b33a7efd" xblock-family="xblock.v1" discussion_target="Video 1: Intro to Toyota Production System" display_name="Discussion" discussion_category="Week 6"/>
+  <discussion url_name="850e1ed6dec64fa4916c0750b33a7efd" xblock-family="xblock.v1" display_name="Discussion" discussion_category="Week 6" discussion_target="Video 1: Intro to Toyota Production System"/>
 </vertical>

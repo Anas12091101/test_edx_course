@@ -1,13 +1,13 @@
-<video youtube="1.00:9tnGMEzsNyM" url_name="3a502a57bcd04c73bd91d0dcb69c8a2d" display_name="MATLAB Introduction" download_track="true" download_video="true" edx_video_id="e1210675-696a-452d-b854-7f70e5042485" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;e1210675-696a-452d-b854-7f70e5042485-en.srt&quot;}" youtube_id_1_0="9tnGMEzsNyM">
-  <transcript language="en" src="e1210675-696a-452d-b854-7f70e5042485-en.srt"/>
+<video youtube="1.00:9tnGMEzsNyM" url_name="3a502a57bcd04c73bd91d0dcb69c8a2d" sub="" transcripts="{&quot;en&quot;: &quot;e1210675-696a-452d-b854-7f70e5042485-en.srt&quot;}" display_name="MATLAB Introduction" download_track="true" download_video="true" edx_video_id="e1210675-696a-452d-b854-7f70e5042485" html5_sources="[]" youtube_id_1_0="9tnGMEzsNyM">
   <video_asset client_video_id="MatlabIntro.mp4" duration="328.53" image="">
-    <encoded_video bitrate="99" file_size="4080463" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400_MB2.mp4"/>
-    <encoded_video bitrate="192" file_size="7886403" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400_AUD.mp3"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400/MIT2854F2017-V006400.m3u8"/>
-    <encoded_video bitrate="139" file_size="5749052" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="9tnGMEzsNyM"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400_MB2.mp4" file_size="4080463" bitrate="99"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400_AUD.mp3" file_size="7886403" bitrate="192"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400/MIT2854F2017-V006400.m3u8" file_size="0" bitrate="0"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V006400_DTH.mp4" file_size="5749052" bitrate="139"/>
+    <encoded_video profile="youtube" url="9tnGMEzsNyM" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="e1210675-696a-452d-b854-7f70e5042485-en.srt"/>
 </video>

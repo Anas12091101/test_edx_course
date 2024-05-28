@@ -1,5 +1,5 @@
 <vertical display_name="Concept Check 3">
   <problem url_name="18f6094145014895ab8a4b36114caf7d"/>
   <problem url_name="b0e3e53eabd04cc995a8690074d57326"/>
-  <discussion url_name="d257c2d09c6f40e1a7fe6718e274f804" xblock-family="xblock.v1" discussion_target="Concept Check 3" display_name="Discussion" discussion_category="Week 7"/>
+  <discussion url_name="d257c2d09c6f40e1a7fe6718e274f804" xblock-family="xblock.v1" display_name="Discussion" discussion_category="Week 7" discussion_target="Concept Check 3"/>
 </vertical>

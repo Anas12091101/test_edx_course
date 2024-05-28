@@ -1,5 +1,5 @@
 <vertical display_name="Video 1: Introduction to Probability">
   <html url_name="c067c4827097408e92303be754c06fcf"/>
   <video url_name="bd63439ad4224eccbbe9d02c4398be05"/>
-  <discussion url_name="9bd1a2f667ad41cfa153681a08f3b02c" xblock-family="xblock.v1" discussion_target="Video 1: Intro to Probabilities" discussion_category="Week 2"/>
+  <discussion url_name="9bd1a2f667ad41cfa153681a08f3b02c" xblock-family="xblock.v1" discussion_category="Week 2" discussion_target="Video 1: Intro to Probabilities"/>
 </vertical>

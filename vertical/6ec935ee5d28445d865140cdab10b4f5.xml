@@ -1,4 +1,4 @@
 <vertical display_name="Video 1: Intro to Single-part-type, multiple stage systems">
   <video url_name="7dcade01170341919d7308cab7fae69f"/>
-  <discussion url_name="b3e72db1bc12476dbaf1a794b60edb47" xblock-family="xblock.v1" discussion_target="Video 1: Intro to Single-part-type, multi-stage systems" display_name="Discussion" discussion_category="Week 7"/>
+  <discussion url_name="b3e72db1bc12476dbaf1a794b60edb47" xblock-family="xblock.v1" display_name="Discussion" discussion_category="Week 7" discussion_target="Video 1: Intro to Single-part-type, multi-stage systems"/>
 </vertical>

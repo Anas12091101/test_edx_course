@@ -1,13 +1,13 @@
-<video youtube="1.00:oNg-eX69YWw" url_name="5f58bf6452e54efb9c30794b5c12f834" display_name="Video 3: Probability Basics II" download_track="true" download_video="true" edx_video_id="c1514609-723a-4943-a691-d14f77e7bae2" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;c1514609-723a-4943-a691-d14f77e7bae2-en.srt&quot;}" youtube_id_1_0="oNg-eX69YWw">
-  <transcript language="en" src="c1514609-723a-4943-a691-d14f77e7bae2-en.srt"/>
+<video youtube="1.00:oNg-eX69YWw" url_name="5f58bf6452e54efb9c30794b5c12f834" sub="" transcripts="{&quot;en&quot;: &quot;c1514609-723a-4943-a691-d14f77e7bae2-en.srt&quot;}" display_name="Video 3: Probability Basics II" download_track="true" download_video="true" edx_video_id="c1514609-723a-4943-a691-d14f77e7bae2" html5_sources="[]" youtube_id_1_0="oNg-eX69YWw">
   <video_asset client_video_id="W02v03.mp4" duration="386.73" image="">
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="oNg-eX69YWw"/>
-    <encoded_video bitrate="171" file_size="8270956" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100_MB2.mp4"/>
-    <encoded_video bitrate="197" file_size="9555471" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100/MIT2854F2017-V003100.m3u8"/>
-    <encoded_video bitrate="192" file_size="9282954" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100_AUD.mp3"/>
+    <encoded_video profile="youtube" url="oNg-eX69YWw" file_size="0" bitrate="0"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100_MB2.mp4" file_size="8270956" bitrate="171"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100_DTH.mp4" file_size="9555471" bitrate="197"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100/MIT2854F2017-V003100.m3u8" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003100_AUD.mp3" file_size="9282954" bitrate="192"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="c1514609-723a-4943-a691-d14f77e7bae2-en.srt"/>
 </video>

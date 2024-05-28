@@ -1,12 +1,12 @@
-<video youtube="1.00:f6_zewF2Qog" url_name="b094692adc9f4a9888c169169c229565" display_name="Video 2: M/M/1 Queue" download_track="true" download_video="true" edx_video_id="3f05f834-198e-4799-bb63-708411c60d96" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;3f05f834-198e-4799-bb63-708411c60d96-en.srt&quot;}" youtube_id_1_0="f6_zewF2Qog">
-  <transcript language="en" src="3f05f834-198e-4799-bb63-708411c60d96-en.srt"/>
+<video youtube="1.00:f6_zewF2Qog" url_name="b094692adc9f4a9888c169169c229565" sub="" transcripts="{&quot;en&quot;: &quot;3f05f834-198e-4799-bb63-708411c60d96-en.srt&quot;}" display_name="Video 2: M/M/1 Queue" download_track="true" download_video="true" edx_video_id="3f05f834-198e-4799-bb63-708411c60d96" html5_sources="[]" youtube_id_1_0="f6_zewF2Qog">
   <video_asset client_video_id="W04v02_alt.mp4" duration="376.15" image="">
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="f6_zewF2Qog"/>
-    <encoded_video bitrate="127" file_size="5993727" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004000_MB2.mp4"/>
-    <encoded_video bitrate="154" file_size="7280047" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004000_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004000/MIT2854F2017-V004000.m3u8"/>
+    <encoded_video profile="youtube" url="f6_zewF2Qog" file_size="0" bitrate="0"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004000_MB2.mp4" file_size="5993727" bitrate="127"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004000_DTH.mp4" file_size="7280047" bitrate="154"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004000/MIT2854F2017-V004000.m3u8" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="3f05f834-198e-4799-bb63-708411c60d96-en.srt"/>
 </video>

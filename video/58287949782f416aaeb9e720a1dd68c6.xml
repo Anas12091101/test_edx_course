@@ -1,13 +1,13 @@
-<video youtube="1.00:XrCvAsjXNr8" url_name="58287949782f416aaeb9e720a1dd68c6" display_name="Welcome to the Week" download_track="true" download_video="true" edx_video_id="a110e433-08c6-4596-9561-a83f34370082" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;a110e433-08c6-4596-9561-a83f34370082-en.srt&quot;}" youtube_id_1_0="XrCvAsjXNr8">
-  <transcript language="en" src="a110e433-08c6-4596-9561-a83f34370082-en.srt"/>
+<video youtube="1.00:XrCvAsjXNr8" url_name="58287949782f416aaeb9e720a1dd68c6" sub="" transcripts="{&quot;en&quot;: &quot;a110e433-08c6-4596-9561-a83f34370082-en.srt&quot;}" display_name="Welcome to the Week" download_track="true" download_video="true" edx_video_id="a110e433-08c6-4596-9561-a83f34370082" html5_sources="[]" youtube_id_1_0="XrCvAsjXNr8">
   <video_asset client_video_id="Wk7Intro.mp4" duration="55.63" image="">
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="XrCvAsjXNr8"/>
-    <encoded_video bitrate="209" file_size="1454766" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700_MB2.mp4"/>
-    <encoded_video bitrate="192" file_size="1336774" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700_AUD.mp3"/>
-    <encoded_video bitrate="375" file_size="2610849" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700/MIT2854F2017-V004700.m3u8"/>
+    <encoded_video profile="youtube" url="XrCvAsjXNr8" file_size="0" bitrate="0"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700_MB2.mp4" file_size="1454766" bitrate="209"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700_AUD.mp3" file_size="1336774" bitrate="192"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700_DTH.mp4" file_size="2610849" bitrate="375"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V004700/MIT2854F2017-V004700.m3u8" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="a110e433-08c6-4596-9561-a83f34370082-en.srt"/>
 </video>

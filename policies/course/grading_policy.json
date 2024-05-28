@@ -1,23 +1,23 @@
 {
     "GRADER": [
         {
-            "drop_count": 0, 
-            "min_count": 7, 
-            "short_label": "HW", 
-            "type": "Homework", 
+            "drop_count": 0,
+            "min_count": 7,
+            "short_label": "HW",
+            "type": "Homework",
             "weight": 0.3
-        }, 
+        },
         {
-            "drop_count": 0, 
-            "min_count": 1, 
-            "short_label": "Final", 
-            "type": "Final Exam", 
+            "drop_count": 0,
+            "min_count": 1,
+            "short_label": "Final",
+            "type": "Final Exam",
             "weight": 0.7
         }
-    ], 
+    ],
     "GRADE_CUTOFFS": {
-        "A": 0.9, 
-        "B": 0.75, 
+        "A": 0.9,
+        "B": 0.75,
         "C": 0.6
     }
 }

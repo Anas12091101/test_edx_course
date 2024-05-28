@@ -1,4 +1,4 @@
-<sequential default_time_limit_minutes="0" display_name="Graded Problem Sets" due="&quot;2018-10-30T15:00:00+00:00&quot;" exam_review_rules="" format="Homework" graded="true" is_practice_exam="false" is_proctored_enabled="false" is_time_limited="false" show_correctness="always">
+<sequential default_time_limit_minutes="0" display_name="Graded Problem Sets" due="2018-10-30T15:00:00Z" exam_review_rules="" format="Homework" graded="true" is_practice_exam="false" is_proctored_enabled="false" is_time_limited="false" show_correctness="always">
   <vertical url_name="4136b8df91044d449fd77d3a0dc7b790"/>
   <vertical url_name="400b1b9fc39e4fd985873252c9333183"/>
   <vertical url_name="d75acb1aba624091b2c4607842d2cf55"/>

@@ -1,4 +1,4 @@
 <vertical display_name="Video 1: Intro to Inventory Management">
   <video url_name="4412553043db4405b3881e723c58a0b2"/>
-  <discussion url_name="a0c14118a1ce48afb1fdab113c01da2c" xblock-family="xblock.v1" discussion_target="Video 1: Intro to Inventory Management" display_name="Discussion" discussion_category="Week 5"/>
+  <discussion url_name="a0c14118a1ce48afb1fdab113c01da2c" xblock-family="xblock.v1" display_name="Discussion" discussion_category="Week 5" discussion_target="Video 1: Intro to Inventory Management"/>
 </vertical>

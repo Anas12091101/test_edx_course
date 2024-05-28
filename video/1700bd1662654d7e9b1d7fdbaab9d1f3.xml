@@ -1,13 +1,13 @@
-<video youtube="1.00:SEKvdTt3uiw" url_name="1700bd1662654d7e9b1d7fdbaab9d1f3" display_name="Introduction Video" download_track="true" download_video="true" edx_video_id="5dfd319c-1a23-47f5-9304-d5e87a9bb978" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;5dfd319c-1a23-47f5-9304-d5e87a9bb978-en.srt&quot;}" youtube_id_1_0="SEKvdTt3uiw">
-  <transcript language="en" src="5dfd319c-1a23-47f5-9304-d5e87a9bb978-en.srt"/>
+<video youtube="1.00:SEKvdTt3uiw" url_name="1700bd1662654d7e9b1d7fdbaab9d1f3" sub="" transcripts="{&quot;en&quot;: &quot;5dfd319c-1a23-47f5-9304-d5e87a9bb978-en.srt&quot;}" display_name="Introduction Video" download_track="true" download_video="true" edx_video_id="5dfd319c-1a23-47f5-9304-d5e87a9bb978" html5_sources="[]" youtube_id_1_0="SEKvdTt3uiw">
   <video_asset client_video_id="W02_Intro.mov" duration="43.07" image="">
-    <encoded_video bitrate="254" file_size="1373113" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900_MB2.mp4"/>
-    <encoded_video bitrate="192" file_size="1036462" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900_AUD.mp3"/>
-    <encoded_video bitrate="513" file_size="2767501" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900/MIT2854F2017-V000900.m3u8"/>
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="SEKvdTt3uiw"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900_MB2.mp4" file_size="1373113" bitrate="254"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900_AUD.mp3" file_size="1036462" bitrate="192"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900_DTH.mp4" file_size="2767501" bitrate="513"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V000900/MIT2854F2017-V000900.m3u8" file_size="0" bitrate="0"/>
+    <encoded_video profile="youtube" url="SEKvdTt3uiw" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="5dfd319c-1a23-47f5-9304-d5e87a9bb978-en.srt"/>
 </video>

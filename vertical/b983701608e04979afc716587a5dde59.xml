@@ -1,5 +1,5 @@
 <vertical display_name="Graded Problem 2" visible_to_staff_only="true">
-  <openassessment url_name="2f7f5d948b6548569786fc1723d3be77" submission_start="2018-08-28T15:00:00" submission_due="2018-09-11T15:00:00" text_response="required" allow_latex="False" prompts_type="html">
+  <openassessment url_name="2f7f5d948b6548569786fc1723d3be77" submission_start="2018-08-28T15:00:00" submission_due="2018-09-11T15:00:00" text_response="required" text_response_editor="text" allow_multiple_files="True" allow_latex="False" prompts_type="html" teams_enabled="False" show_rubric_during_response="False">
     <title>Introduce Yourself </title>
     <assessments>
       <assessment name="self-assessment" start="2018-08-28T15:00:00" due="2018-09-11T15:00:00"/>
@@ -30,5 +30,5 @@
     </rubric>
   </openassessment>
   <html url_name="cd15b22b5caa416c9a211d6681f3c0ec"/>
-  <discussion url_name="8844cc8473544b618fb183ea2b86ab0c" xblock-family="xblock.v1" discussion_target="Please Introduce Yourself" discussion_category="Week 1"/>
+  <discussion url_name="8844cc8473544b618fb183ea2b86ab0c" xblock-family="xblock.v1" discussion_category="Week 1" discussion_target="Please Introduce Yourself"/>
 </vertical>

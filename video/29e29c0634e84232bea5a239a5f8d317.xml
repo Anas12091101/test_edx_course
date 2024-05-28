@@ -1,13 +1,13 @@
-<video youtube="1.00:SoEZGFsyHgs" url_name="29e29c0634e84232bea5a239a5f8d317" display_name="Video 3: Kanban II" download_track="true" download_video="true" edx_video_id="7dc2616d-d8ff-4177-86bf-37cc5c2cc652" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;7dc2616d-d8ff-4177-86bf-37cc5c2cc652-en.srt&quot;}" youtube_id_1_0="SoEZGFsyHgs">
-  <transcript language="en" src="7dc2616d-d8ff-4177-86bf-37cc5c2cc652-en.srt"/>
+<video youtube="1.00:SoEZGFsyHgs" url_name="29e29c0634e84232bea5a239a5f8d317" sub="" transcripts="{&quot;en&quot;: &quot;7dc2616d-d8ff-4177-86bf-37cc5c2cc652-en.srt&quot;}" display_name="Video 3: Kanban II" download_track="true" download_video="true" edx_video_id="7dc2616d-d8ff-4177-86bf-37cc5c2cc652" html5_sources="[]" youtube_id_1_0="SoEZGFsyHgs">
   <video_asset client_video_id="W06v03.mp4" duration="376.41" image="">
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="SoEZGFsyHgs"/>
-    <encoded_video bitrate="192" file_size="9034698" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100_AUD.mp3"/>
-    <encoded_video bitrate="194" file_size="9168260" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100_DTH.mp4"/>
-    <encoded_video bitrate="161" file_size="7594636" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100_MB2.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100/MIT2854F2017-V005100.m3u8"/>
+    <encoded_video profile="youtube" url="SoEZGFsyHgs" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100_AUD.mp3" file_size="9034698" bitrate="192"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100_DTH.mp4" file_size="9168260" bitrate="194"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100_MB2.mp4" file_size="7594636" bitrate="161"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V005100/MIT2854F2017-V005100.m3u8" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="7dc2616d-d8ff-4177-86bf-37cc5c2cc652-en.srt"/>
 </video>

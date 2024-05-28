@@ -1,4 +1,4 @@
 <vertical display_name="Introduction Video">
   <video url_name="fe85a1fbc1d04882adae2f00ef49e5f6"/>
-  <discussion url_name="427cfdd6b95c4423ae51fc2efbb5a442" xblock-family="xblock.v1" discussion_target="Introduction Video" discussion_category="Week 4"/>
+  <discussion url_name="427cfdd6b95c4423ae51fc2efbb5a442" xblock-family="xblock.v1" discussion_category="Week 4" discussion_target="Introduction Video"/>
 </vertical>

@@ -1,14 +1,14 @@
-<video url_name="5d85640db83045f5850730954ea5769b" display_name="Recitation for MicroMaster's Practice Problem 2" download_track="true" download_video="true" edx_video_id="f561d480-e0b5-4f60-a587-630e084aeca1" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200/MITx2.854.1x-V000200.m3u8&quot;, &quot;&quot;]" sub="" transcripts="{&quot;en&quot;: &quot;f561d480-e0b5-4f60-a587-630e084aeca1-en.srt&quot;}" youtube_id_1_0="">
+<video url_name="5d85640db83045f5850730954ea5769b" sub="" transcripts="{&quot;en&quot;: &quot;f561d480-e0b5-4f60-a587-630e084aeca1-en.srt&quot;}" display_name="Recitation for MicroMaster's Practice Problem 2" download_track="true" download_video="true" edx_video_id="f561d480-e0b5-4f60-a587-630e084aeca1" html5_sources="[&quot;https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200/MITx2.854.1x-V000200.m3u8&quot;, &quot;&quot;]" youtube_id_1_0="">
   <source src="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200/MITx2.854.1x-V000200.m3u8"/>
   <source src=""/>
-  <transcript language="en" src="f561d480-e0b5-4f60-a587-630e084aeca1-en.srt"/>
-  <video_asset client_video_id="week3MMPP2.mp4" duration="421.79" image="video-images/e04805f215a54e8b9eac91492577f27d.png">
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200/MITx2.854.1x-V000200.m3u8"/>
-    <encoded_video bitrate="192" file_size="10124571" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200_AUD.mp3"/>
-    <encoded_video bitrate="153" file_size="8075870" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200_MB2.mp4"/>
-    <encoded_video bitrate="173" file_size="9127398" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200_DTH.mp4"/>
+  <video_asset client_video_id="week3MMPP2.mp4" duration="421.79" image="">
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200/MITx2.854.1x-V000200.m3u8" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200_AUD.mp3" file_size="10124571" bitrate="192"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200_MB2.mp4" file_size="8075870" bitrate="153"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000200_DTH.mp4" file_size="9127398" bitrate="173"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="f561d480-e0b5-4f60-a587-630e084aeca1-en.srt"/>
 </video>

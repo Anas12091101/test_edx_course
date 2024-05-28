@@ -1,11 +1,12 @@
-<video youtube="1.00:NPP3mVXyTyY" url_name="d97e99bc95774711bab024aaa4445a9a" display_name="Video 2: Probability Basics I" download_track="true" download_video="true" edx_video_id="2afd96dc-0b4a-43fa-bd1b-a11d71d372b6" html5_sources="[]" sub="NPP3mVXyTyY" transcripts="{}" youtube_id_1_0="NPP3mVXyTyY">
-  <video_asset client_video_id="W02v02.mp4" duration="940.48" image="video-images/3eb1660f7a9143648cafad118995af52.png">
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100/MITx2.854.1x-V000100.m3u8"/>
-    <encoded_video bitrate="192" file_size="22572426" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100_AUD.mp3"/>
-    <encoded_video bitrate="161" file_size="18947475" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100_MB2.mp4"/>
-    <encoded_video bitrate="191" file_size="22462210" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100_DTH.mp4"/>
+<video youtube="1.00:NPP3mVXyTyY" url_name="d97e99bc95774711bab024aaa4445a9a" sub="" transcripts="{&quot;en&quot;: &quot;2afd96dc-0b4a-43fa-bd1b-a11d71d372b6-en.srt&quot;}" display_name="Video 2: Probability Basics I" download_track="true" download_video="true" edx_video_id="2afd96dc-0b4a-43fa-bd1b-a11d71d372b6" html5_sources="[]" youtube_id_1_0="NPP3mVXyTyY">
+  <video_asset client_video_id="W02v02.mp4" duration="940.48" image="">
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100/MITx2.854.1x-V000100.m3u8" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100_AUD.mp3" file_size="22572426" bitrate="192"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100_MB2.mp4" file_size="18947475" bitrate="161"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000100_DTH.mp4" file_size="22462210" bitrate="191"/>
     <transcripts>
-      <transcript file_format="sjson" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="2afd96dc-0b4a-43fa-bd1b-a11d71d372b6-en.srt"/>
 </video>

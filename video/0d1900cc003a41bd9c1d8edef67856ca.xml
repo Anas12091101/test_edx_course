@@ -1,13 +1,13 @@
-<video youtube="1.00:OibfUdVcQ-k" url_name="0d1900cc003a41bd9c1d8edef67856ca" display_name="Video 2: Markov Processes I" download_track="true" download_video="true" edx_video_id="635f7ebf-1366-4be7-9574-b1a94c061fd7" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;635f7ebf-1366-4be7-9574-b1a94c061fd7-en.srt&quot;}" youtube_id_1_0="OibfUdVcQ-k">
-  <transcript language="en" src="635f7ebf-1366-4be7-9574-b1a94c061fd7-en.srt"/>
+<video youtube="1.00:OibfUdVcQ-k" url_name="0d1900cc003a41bd9c1d8edef67856ca" sub="" transcripts="{&quot;en&quot;: &quot;635f7ebf-1366-4be7-9574-b1a94c061fd7-en.srt&quot;}" display_name="Video 2: Markov Processes I" download_track="true" download_video="true" edx_video_id="635f7ebf-1366-4be7-9574-b1a94c061fd7" html5_sources="[]" youtube_id_1_0="OibfUdVcQ-k">
   <video_asset client_video_id="W03v02.mp4" duration="762.94" image="">
-    <encoded_video bitrate="0" file_size="0" profile="youtube" url="OibfUdVcQ-k"/>
-    <encoded_video bitrate="192" file_size="18312330" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800_AUD.mp3"/>
-    <encoded_video bitrate="172" file_size="16494206" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800_MB2.mp4"/>
-    <encoded_video bitrate="164" file_size="15683759" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800_DTH.mp4"/>
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800/MIT2854F2017-V003800.m3u8"/>
+    <encoded_video profile="youtube" url="OibfUdVcQ-k" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800_AUD.mp3" file_size="18312330" bitrate="192"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800_MB2.mp4" file_size="16494206" bitrate="172"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800_DTH.mp4" file_size="15683759" bitrate="164"/>
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MIT2854F2017-V003800/MIT2854F2017-V003800.m3u8" file_size="0" bitrate="0"/>
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="635f7ebf-1366-4be7-9574-b1a94c061fd7-en.srt"/>
 </video>

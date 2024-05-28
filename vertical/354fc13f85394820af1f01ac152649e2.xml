@@ -1,5 +1,5 @@
 <vertical display_name="DET2TL Program">
-  <lti_consumer url_name="242b75146c674c37b27b690876404c74" xblock-family="xblock.v1" inline_height="1100" accept_grades_past_due="false" weight="0.0" has_score="false" lti_id="matlab" launch_url="https://learningtool.mathworks.com/launch"/>
+  <lti_consumer url_name="242b75146c674c37b27b690876404c74" xblock-family="xblock.v1" accept_grades_past_due="false" has_score="false" inline_height="1100" launch_url="https://learningtool.mathworks.com/launch" lti_id="matlab" weight="0.0"/>
   <html url_name="b7e42f00731f4eab95bf429853ab8efb"/>
-  <discussion url_name="fa0f201f02a347838060e8ab9efacd4d" xblock-family="xblock.v1" discussion_target="DET2ML" discussion_category="Week 7"/>
+  <discussion url_name="fa0f201f02a347838060e8ab9efacd4d" xblock-family="xblock.v1" discussion_category="Week 7" discussion_target="DET2ML"/>
 </vertical>

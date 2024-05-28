@@ -1,11 +1,12 @@
-<video youtube="1.00:67tovASCCzo" url_name="e4757aa843124afb8cf444ee33f8dc34" display_name="Video 4: Queuing Networks I" download_track="true" download_video="true" edx_video_id="cd9a76e6-093b-4713-80f4-d5cb645feea6" html5_sources="[]" sub="67tovASCCzo" transcripts="{}" youtube_id_1_0="67tovASCCzo">
-  <video_asset client_video_id="Week4 video4.mp4" duration="639.97" image="video-images/329ab89de74049dd98231059891e2585.png">
-    <encoded_video bitrate="0" file_size="0" profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400/MITx2.854.1x-V000400.m3u8"/>
-    <encoded_video bitrate="192" file_size="15361394" profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400_AUD.mp3"/>
-    <encoded_video bitrate="84" file_size="6727707" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400_MB2.mp4"/>
-    <encoded_video bitrate="90" file_size="7216238" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400_DTH.mp4"/>
+<video youtube="1.00:67tovASCCzo" url_name="e4757aa843124afb8cf444ee33f8dc34" sub="" transcripts="{&quot;en&quot;: &quot;cd9a76e6-093b-4713-80f4-d5cb645feea6-en.srt&quot;}" display_name="Video 4: Queuing Networks I" download_track="true" download_video="true" edx_video_id="cd9a76e6-093b-4713-80f4-d5cb645feea6" html5_sources="[]" youtube_id_1_0="67tovASCCzo">
+  <video_asset client_video_id="Week4 video4.mp4" duration="639.97" image="">
+    <encoded_video profile="hls" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400/MITx2.854.1x-V000400.m3u8" file_size="0" bitrate="0"/>
+    <encoded_video profile="audio_mp3" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400_AUD.mp3" file_size="15361394" bitrate="192"/>
+    <encoded_video profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400_MB2.mp4" file_size="6727707" bitrate="84"/>
+    <encoded_video profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/MITx2.854.1x-V000400_DTH.mp4" file_size="7216238" bitrate="90"/>
     <transcripts>
-      <transcript file_format="sjson" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="cd9a76e6-093b-4713-80f4-d5cb645feea6-en.srt"/>
 </video>

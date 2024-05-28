@@ -1,5 +1,5 @@
 <vertical display_name="Webinar with Dr. Gershwin" visible_to_staff_only="true">
   <html url_name="447a19051ca140af8dc139315119eb26"/>
   <html url_name="20f81fd5633049348e11389292f88746"/>
-  <discussion url_name="db46c85b34c24bf2a92fd0984bd40455" xblock-family="xblock.v1" discussion_target="Webinar with Dr. Gershwin" group_access="{&#10;  &quot;50&quot;: [&#10;    2&#10;  ]&#10;}" discussion_category="Week 4"/>
+  <discussion url_name="db46c85b34c24bf2a92fd0984bd40455" xblock-family="xblock.v1" group_access="{&#10;  &quot;50&quot;: [&#10;    2&#10;  ]&#10;}" discussion_category="Week 4" discussion_target="Webinar with Dr. Gershwin"/>
 </vertical>

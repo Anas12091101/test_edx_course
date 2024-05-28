@@ -1,8 +1,8 @@
-<video youtube="1.00:OJ_XQVVYx7g" url_name="778abbbe87e74f2ba51730a1b5a45cce" display_name="Continuous-Time Markov Chains" download_track="true" download_video="true" edx_video_id="2bb20559-b048-4970-97f7-0a3efc1f98cb" html5_sources="[]" sub="" transcripts="{&quot;en&quot;: &quot;2bb20559-b048-4970-97f7-0a3efc1f98cb-en.srt&quot;}" youtube_id_1_0="OJ_XQVVYx7g">
-  <transcript language="en" src="2bb20559-b048-4970-97f7-0a3efc1f98cb-en.srt"/>
+<video youtube="1.00:OJ_XQVVYx7g" url_name="778abbbe87e74f2ba51730a1b5a45cce" sub="" transcripts="{&quot;en&quot;: &quot;2bb20559-b048-4970-97f7-0a3efc1f98cb-en.srt&quot;}" display_name="Continuous-Time Markov Chains" download_track="true" download_video="true" edx_video_id="2bb20559-b048-4970-97f7-0a3efc1f98cb" html5_sources="[]" youtube_id_1_0="OJ_XQVVYx7g">
   <video_asset client_video_id="external-video" duration="0.0" image="">
     <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
     </transcripts>
   </video_asset>
+  <transcript language="en" src="2bb20559-b048-4970-97f7-0a3efc1f98cb-en.srt"/>
 </video>
